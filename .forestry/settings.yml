@@ -9,6 +9,10 @@ sections:
 - type: document
   path: content/_index.md
   label: Home
+- type: document
+  path: content/typedb.md
+  label: TypeDB
+  match: "**/*"
 - type: directory
   path: content/post
   label: Posts
