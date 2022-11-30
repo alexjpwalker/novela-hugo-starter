@@ -6,7 +6,6 @@ excerpt: 'Since September 2021, we’ve been building on a vision: we wanted peo
   developing with TypeDB to have a better integrated development environment.'
 date: 2022-11-30T00:00:00+00:00
 hero: "/images/colored-regions-img.png"
-draft: true
 
 ---
 ![](https://miro.medium.com/max/1400/1*a96KT0StOXkn7s8DcXfAdw.png)
