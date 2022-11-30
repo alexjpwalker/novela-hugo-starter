@@ -5,11 +5,9 @@ title: Building an IDE with Compose Multiplatform
 excerpt: 'Since September 2021, we’ve been building on a vision: we wanted people
   developing with TypeDB to have a better integrated development environment.'
 date: 2022-11-30T00:00:00+00:00
-hero: "/images/colored-regions-img.png"
+hero: "/images/1_a96kt0stoxkn7s8dcxfadw.webp"
 
 ---
-![](https://miro.medium.com/max/1400/1*a96KT0StOXkn7s8DcXfAdw.png)
-
 TypeDB Studio
 
 This time last year, our existing graphical interface for [TypeDB](https://github.com/vaticle/typedb) only allowed for the running of simple queries. We wanted to replace it with something expansive that gave our users a top-down view of their entire database. Building this product, an integrated development environment (IDE), is no mean feat. We had to find a flexible, multiplatform user interface (UI) framework that could handle what members of the [TypeDB community](https://vaticle.com/discord) were going to throw at it.
